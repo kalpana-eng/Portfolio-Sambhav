@@ -192,19 +192,24 @@ function App() {
 
               <p>
                 Data becomes valuable when it helps people understand what is
-                happening and make better decisions.
+                happening, why it is happening, and what action should follow .
               </p>
             </div>
 
             <p>
-              I work across MIS reporting, data validation, dashboard
-              development and performance monitoring. My focus is on turning
-              operational data into accurate, decision-ready information.
+           I work across MIS reporting, data analysis, data validation and
+    business intelligence. My focus is on turning operational data
+    into accurate reports, meaningful dashboards and decision-ready
+    information.
+
             </p>
 
             <p>
-              My work involves reporting, KPI tracking, data analysis and
-              supporting stakeholders with structured information.
+              My work involves preparing and validating data, tracking KPIs,
+    analyzing trends and building recurring reports using tools such
+    as Excel, SQL, Python and Power BI. I aim to make complex
+    information easier for teams and stakeholders to understand and
+    use.
             </p>
 
             <div className="about-stats">
