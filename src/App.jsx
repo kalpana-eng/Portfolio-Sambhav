@@ -409,35 +409,40 @@ function App() {
 
           <div className="education-list">
             <article>
-              <span>2022 — 2025</span>
-              <h3>B.Tech. in Computer Science</h3>
-              <p>
-                Deenbandhu Chhotu Ram University of Science & Technology,
-                Sonipat
-              </p>
-            </article>
+  <span>2022 — 2025</span>
+  <h3>B.Tech. in Computer Science</h3>
+  <p>
+    Deenbandhu Chhotu Ram University of Science & Technology,
+    Sonipat
+  </p>
+</article>
 
-            <article>
-              <span>2019 — 2022</span>
-              <h3>Diploma in Mechanical Engineering</h3>
-              <p>Government Polytechnic, Sonipat</p>
-            </article>
+<article>
+  <span>2019 — 2022</span>
+  <h3>Diploma in Mechanical Engineering</h3>
+  <p>
+    Government Polytechnic, Sonipat
+  </p>
+</article>
 
-            <article className="certification-card">
-              <span>2025</span>
+<article className="certification-card">
+  <span>2025</span>
 
-              <h3>Post Graduate Certification in Data Analytics</h3>
+  <h3>Post Graduate Certification in Data Analytics</h3>
 
-              <p>Professional Certification</p>
+  <p>
+    Professional certification focused on data analysis and
+    analytics fundamentals.
+  </p>
 
-              <a
-                href="https://drive.google.com/drive/folders/1Dtjw50lWLRhQaF5sNJyemzKZp4SIuuEy"
-                target="_blank"
-                rel="noreferrer"
-              >
-                View Certificate 
-              </a>
-            </article>
+  <a
+    href="https://drive.google.com/drive/folders/1Dtjw50lWLRhQaF5sNJyemzKZp4SIuuEy"
+    target="_blank"
+    rel="noreferrer"
+  >
+    View Certificate 
+  </a>
+</article>
           </div>
         </div>
       </section>
