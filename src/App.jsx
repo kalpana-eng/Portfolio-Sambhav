@@ -126,8 +126,10 @@ function App() {
               </h1>
 
               <p className="hero-description">
-                I turn operational data into clear reports, useful dashboards
-                and practical business insights.
+              I work with operational and business data to build accurate MIS reports, interactive dashboards and actionable insights. My work
+              combines Python, SQL, Excel and Power BI to turn raw data into information that helps teams track performance and make better
+              decisions.
+              
               </p>
 
               <div className="hero-buttons">
