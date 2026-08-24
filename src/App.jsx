@@ -2,37 +2,43 @@ import "./App.css";
 
 function App() {
   const skills = [
-    {
-      title: "Data Analysis",
-      description: "Python, Pandas, NumPy, Matplotlib, Seaborn and EDA.",
-      icon: "⌁",
-    },
-    {
-      title: "Business Intelligence",
-      description: "Power BI, DAX, Tableau and decision-focused dashboards.",
-      icon: "◒",
-    },
-    {
-      title: "SQL & Databases",
-      description: "SQL, MySQL, querying, filtering and structured data.",
-      icon: "⌘",
-    },
-    {
-      title: "Reporting",
-      description: "Advanced Excel, Power Query, Google Sheets and MIS reporting.",
-      icon: "▤",
-    },
-    {
-      title: "Data Quality",
-      description: "Data cleaning, validation, consolidation and reconciliation.",
-      icon: "✓",
-    },
-    {
-      title: "Analytics",
-      description: "KPI tracking, dashboarding, automation and root-cause analysis.",
-      icon: "↗",
-    },
-  ];
+  {
+    title: "Data Analysis",
+    description:
+      "Python, Pandas, NumPy, Matplotlib and Seaborn for data cleaning, exploratory analysis, trend identification and understanding business performance.",
+    icon: "⌁",
+  },
+  {
+    title: "Business Intelligence",
+    description:
+      "Power BI, DAX and Power Query for interactive dashboards, KPI tracking and presenting business performance in a clear, decision-focused way.",
+    icon: "◒",
+  },
+  {
+    title: "SQL & Databases",
+    description:
+      "SQL and MySQL for extracting, filtering, joining and aggregating structured data used in analysis and recurring reporting.",
+    icon: "⌘",
+  },
+  {
+    title: "MIS & Reporting",
+    description:
+      "Advanced Excel, Google Sheets and structured MIS workflows for preparing recurring reports, consolidating information and monitoring operations.",
+    icon: "▤",
+  },
+  {
+    title: "Data Quality",
+    description:
+      "Data cleaning, validation, reconciliation and consistency checks to improve the accuracy and reliability of reports and dashboards.",
+    icon: "✓",
+  },
+  {
+    title: "Business Analytics",
+    description:
+      "KPI monitoring, trend analysis and root-cause analysis to identify performance patterns and turn data into practical business insights.",
+    icon: "↗",
+  },
+];
 
   const projects = [
     {
@@ -241,14 +247,16 @@ function App() {
             <h2>
               Tools I use
               <br />
-              to solve <span>problems.</span>
+              to turn data into <span>decisions.</span>
             </h2>
           </div>
 
           <p>
-            A practical toolkit built around analysis, reporting,
-            visualization and data-driven decision making.
-          </p>
+            
+  A practical toolkit covering data analysis, MIS reporting,
+  business intelligence and data quality — from raw data preparation
+  to clear, decision-ready reporting.
+</p>  
         </div>
 
         <div className="skills-grid">
