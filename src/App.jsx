@@ -41,21 +41,21 @@ function App() {
 ];
 
   const projects = [
-    {
-      category: "DATA ANALYSIS",
-      title: "Candy Sales Analysis",
-      description:
-        "Analyzed 100,000+ rows of sales data using Python and SQL to identify demand trends and resolve data-consistency issues.",
-      tools: ["Python", "SQL", "Power BI"],
-    },
-    {
-      category: "BUSINESS INTELLIGENCE",
-      title: "Automobile Sales Dashboard",
-      description:
-        "Built a Power BI dashboard covering regional sales performance and key business metrics across regions and product lines.",
-      tools: ["Power BI", "DAX", "Power Query"],
-    },
-  ];
+  {
+    category: "DATA ANALYSIS",
+    title: "Candy Sales Analysis",
+    description:
+      "Analyzed 100,000+ sales records using Python and SQL to clean and explore the dataset, identify sales trends, examine product performance and investigate data-consistency issues.",
+    tools: ["Python", "SQL", "Pandas", "Power BI"],
+  },
+  {
+    category: "BUSINESS INTELLIGENCE",
+    title: "Automobile Sales Dashboard",
+    description:
+      "Developed a Power BI dashboard to analyze regional sales performance and key business metrics across regions and product lines, making performance trends easier to monitor and compare.",
+    tools: ["Power BI", "DAX", "Power Query"],
+  },
+];
 
   const experience = [
     {
@@ -300,12 +300,13 @@ function App() {
           <h2>
             Work that shows
             <br />
-            how I <span>think.</span>
+            how I turn <span>data into insight.</span>
           </h2>
 
           <p>
-            Selected analytics and business intelligence work focused on
-            practical data problems.
+            Selected Selected analytics and business intelligence projects focused on
+                data preparation, performance analysis, visualization and
+            turning business data into clear, useful insights.
           </p>
         </div>
 
