@@ -140,7 +140,7 @@ function App() {
               <h1>
                 Sambhav
                 <br />
-                <span>Verma.</span>
+                <span>Verma</span>
               </h1>
 
               <p className="hero-description">
@@ -488,7 +488,7 @@ function App() {
 
             <a href="mailto:smbhvvrma1@gmail.com">
               <span>@</span>
-              Email
+              smbhvvrma1@gmail.com
             </a>
           </div>
         </div>
@@ -496,7 +496,7 @@ function App() {
 
       {/* FOOTER */}
       <footer className="footer">
-        <div>SV.</div>
+        <div>Sambhav Verma</div>
 
         <p>Data Analyst · MIS Executive</p>
 
