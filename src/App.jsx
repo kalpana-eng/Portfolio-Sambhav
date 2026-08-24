@@ -58,25 +58,37 @@ function App() {
 ];
 
   const experience = [
-    {
-      period: "03 / 2026 — PRESENT",
-      type: "PROFESSIONAL EXPERIENCE",
-      role: "MIS Executive",
-      company: "HLFPPT",
-      description:
-        "Owning end-to-end MIS reporting across 30+ districts, producing daily, weekly and monthly reports for program monitoring and decision-making.",
-      tags: ["MIS Reporting", "Data Validation", "KPI Tracking", "Dashboards"],
-    },
-    {
-      period: "07 / 2025 — 02 / 2026",
-      type: "INTERNSHIP",
-      role: "Data Analyst Intern",
-      company: "GvCloud Secure Pvt. Ltd.",
-      description:
-        "Cleaned and structured raw datasets using Python and SQL, performed exploratory data analysis and supported weekly and monthly reporting workflows.",
-      tags: ["Python", "SQL", "Power Query", "Excel"],
-    },
-  ];
+  {
+    period: "03 / 2026 — PRESENT",
+    type: "PROFESSIONAL EXPERIENCE",
+    role: "MIS Executive",
+    company: "HLFPPT",
+    description:
+      "Manage end-to-end MIS reporting across 30+ districts, including data collection, validation, consolidation and preparation of daily, weekly and monthly reports. Track key performance indicators and organize operational data into structured reports that support program monitoring and decision-making.",
+    tags: [
+      "MIS Reporting",
+      "Data Validation",
+      "KPI Tracking",
+      "Excel",
+      "Dashboards",
+    ],
+  },
+  {
+    period: "07 / 2025 — 02 / 2026",
+    type: "INTERNSHIP",
+    role: "Data Analyst Intern",
+    company: "GvCloud Secure Pvt. Ltd.",
+    description:
+      "Worked with raw datasets to clean, structure and analyze information using Python and SQL. Performed exploratory data analysis, supported recurring reporting workflows and helped organize data for clearer analysis and business reporting.",
+    tags: [
+      "Python",
+      "SQL",
+      "Data Analysis",
+      "Power Query",
+      "Excel",
+    ],
+  },
+];
 
   return (
     <main>
