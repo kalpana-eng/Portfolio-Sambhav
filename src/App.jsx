@@ -459,14 +459,16 @@ function App() {
           </h2>
 
           <p>
-            Open to opportunities in Data Analytics and MIS Reporting.
+            Open to opportunities in Data Analytics, MIS Reporting and
+            Business Intelligence. Let's connect and discuss how data can
+            support better reporting, clearer insights and smarter decisions.
           </p>
 
           <a
             href="mailto:smbhvvrma1@gmail.com"
             className="contact-button"
           >
-            Get in touch 
+           Let's connect
           </a>
 
           <div className="contact-links">
